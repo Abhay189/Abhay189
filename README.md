@@ -1,16 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abhay
 =============================================================================================================================
 
-From Algorithms to Chords: Developer, Guitarist, Gym Enthusiast 💻🎸💪
-----------------------------------------------------------------------
+I think of coding as a way to experiment. It helps me do things that I didn't think were possible before I made them possible with my own hands. I code to make life better for me and for people surrounding me. This page showcases the projects that I'm most proud of. Thanks for participating in my journey and if something intrigues your interest then please feel free to connect with me through linkedin or my email (sabhay2001@gmail.com). :) 
 
-Coding is not just a technical skill; it's an art form. It's about crafting solutions with precision, care, and a touch of creativity. My approach is fueled by a genuine love for the process, an enthusiasm that permeates through the projects I undertake.
-
-* 🌍  I'm based in Calgary, Alberta
-* ✉️  You can contact me at [sabhay2001@gmail.com](mailto:sabhay2001@gmail.com)
-* 🧠  I'm learning advanced Data structures and Algorithms
-* 🤝  I'm open to collaborating on anything and everything!
-* ⚡  Serial code optimizer, parallel procrastinator.
+* Latest News: Letter is the latest project that I'm working on. It is an instant messaging platform (web based only for the time being) much like whatsapp or messanger. It utilizes several technologies that are quite new for me including Django , Websockets , Redis , etc. Feel free to fork it and give it your own twist. :) 
 
 ### Skills
 
